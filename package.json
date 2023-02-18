@@ -15,7 +15,7 @@
     "broccoli-concat": "0.0.7",
     "broccoli-es3-safe-recast": "0.0.8",
     "broccoli-file-mover": "^0.4.0",
-    "broccoli-jshint": "^0.5.1",
+    "broccoli-jshint": "^2.0.0",
     "broccoli-merge-trees": "^0.1.4",
     "broccoli-static-compiler": "^0.1.4",
     "broccoli-string-replace": "0.0.1",
