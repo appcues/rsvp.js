@@ -31,7 +31,7 @@
     "promises-aplus-tests-phantom": "^2.1.0-revise",
     "release-it": "0.0.10",
     "testem": "^0.6.17",
-    "git-repo-version": "0.0.2"
+    "git-repo-version": "0.4.1"
   },
   "scripts": {
     "test": "testem ci -R dot",
