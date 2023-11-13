@@ -22,7 +22,7 @@
     "browserify": "^4.2.0",
     "ember-cli": "0.0.40",
     "ember-publisher": "0.0.7",
-    "es6-module-transpiler-amd-formatter": "0.2.2",
+    "es6-module-transpiler-amd-formatter": "0.3.0",
     "express": "^4.5.0",
     "jshint": "~0.9.1",
     "json3": "^3.3.2",
